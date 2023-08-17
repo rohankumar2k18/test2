@@ -1,0 +1,16 @@
+#counter{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+  }
+
+.btn{
+    margin-right: 5px;
+    display: inline-block;
+    justify-content: center;
+}
